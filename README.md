@@ -4,7 +4,7 @@
    <a href="https://github.com/codegabis
 ">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codegabis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codegabis&layout=compact&theme=dracula"/>
+    <img height="70em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codegabis&layout=compact&theme=dracula"/>
  
 
 </div>
