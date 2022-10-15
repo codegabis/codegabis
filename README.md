@@ -24,7 +24,4 @@
   <a href="https://www.linkedin.com/in/gabrielle-souza-de-melo-0ab475177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/codegabis/codegabis/blob/output/github-contribution-grid-snake.svg)
- 
-  ### Repositórios 
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=codegabis&theme=dracula"/>
 </div>
