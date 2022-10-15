@@ -25,6 +25,6 @@
  
   ![Snake animation](https://github.com/codegabis/codegabis/blob/output/github-contribution-grid-snake.svg)
  
-  ###Repositórios 
+  ### Repositórios 
   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=codegabis&repo=github-readme-stats&theme=dracula"/>
 </div>
